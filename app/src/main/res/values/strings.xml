@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RiteKitSample</string>
+    <string name="facebook_app_id">159322624628685</string>
+    <string name="fb_login_protocol_scheme">fb159322624628685</string>
+    <string name="welcome">Welcome, %s</string>
+    <string name="cancel">Login Cancelled</string>
+    <string name="error">Login Error: %s</string>
+    <string name="welcome_to_ritekit_sample">Welcome to RiteKit Sample</string>
+    <string name="trending_url">https://api.ritekit.com/v1/search/trending?green=1&amp;latin=1</string>
+    <string name="influencers_url">https://api.ritekit.com/v1/influencers/hashtag/</string>
+    <string name="client_id">227212c437e45da5d5e6b8f6bc77e9103304f727bdbf</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_trending_hashtags">No Trending Hastags</string>
+    <string name="no_influencers">No Influencers</string>
+    <string name="trending_hashtags">Trending Hashtags</string>
+    <string name="influencers">Influencers</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">LN7fsQjHsuBNVlXLoPlXr6yxv</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">UGsTecbkOwjPV4O0RgIFLaKyHw42ftV5wqNL35LtYNxeka7f2g</string>
+</resources>
